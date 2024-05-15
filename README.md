@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# order-summary-component
-=======
 # Frontend Mentor - Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -26,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/card-screenshot.png)
+![](./screenshot/card-summary.png)
 
 
 ### Links
@@ -46,4 +43,3 @@ Users should be able to:
 
 - Website - [mreone.dev](https://ioangheraszim.github.io/portofolio/#)
 - Frontend Mentor - [@ioangheraszim](https://www.frontendmentor.io/profile/ioangheraszim)
->>>>>>> origin/main
