@@ -135,7 +135,7 @@ button {
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 725px) {
     .card {
         width: min(100% - 2rem, 325px);
         transition: 350ms ease-in-out;
